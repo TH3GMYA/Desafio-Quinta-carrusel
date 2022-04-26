@@ -1,0 +1,9 @@
+.slide{
+	margin-top: 30px;
+}
+
+.slide img{
+	height: 80vh;
+	animation: cambio 5s;
+}
+
